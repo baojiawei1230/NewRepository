@@ -1,0 +1,7 @@
+TAOTAO_MANAGE_URL=http://manage.taotao.com
+TAOTAO_SSO_URL=http://sso.taotao.com
+TAOTAO_ORDER_URL=http://order.taotao.com
+TAOTAO_CART_URL=http://cart.taotao.com
+
+TAOTAO_INDEX_AD1=/rest/content?categoryId=37&page=1&rows=6
+TAOTAO_INDEX_AD2=/rest/content?categoryId=39&page=1&rows=1
