@@ -1,0 +1,8 @@
+127.0.0.1 - - [29/Nov/2015:00:30:24 +0800] "GET /search.html?q=apple HTTP/1.0" 200 42555 http-bio-8085-exec-1 1533
+127.0.0.1 - - [29/Nov/2015:00:30:24 +0800] "GET /favicon.ico HTTP/1.0" 404 973 http-bio-8085-exec-2 4
+127.0.0.1 - - [29/Nov/2015:00:31:00 +0800] "GET /search.html?q=apple HTTP/1.0" 200 42555 http-bio-8085-exec-3 149
+127.0.0.1 - - [29/Nov/2015:14:35:41 +0800] "GET /search.html?q=apple HTTP/1.0" 200 42555 http-bio-8085-exec-1 1651
+127.0.0.1 - - [29/Nov/2015:14:35:41 +0800] "GET /favicon.ico HTTP/1.0" 404 973 http-bio-8085-exec-2 4
+127.0.0.1 - - [29/Nov/2015:14:36:22 +0800] "GET /search.html?q=apple HTTP/1.0" 200 42555 http-bio-8085-exec-3 110
+127.0.0.1 - - [29/Nov/2015:14:36:27 +0800] "GET /search.html?q=apple HTTP/1.0" 200 42555 http-bio-8085-exec-4 101
+127.0.0.1 - - [29/Nov/2015:14:36:48 +0800] "GET /search.html?q=apple HTTP/1.0" 200 42555 http-bio-8085-exec-5 100
