@@ -1,2 +1,2 @@
 #NewRepository
-abcd123 AND happy
+abcd123 & happy
