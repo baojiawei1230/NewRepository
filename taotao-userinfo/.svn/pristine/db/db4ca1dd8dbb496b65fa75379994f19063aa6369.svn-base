@@ -1,0 +1,24 @@
+package com.taotao.userinfo.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.taotao.userinfo.mapper.UserInfoMoreMapper;
+import com.taotao.userinfo.pojo.UserInfoMore;
+
+@Service
+public class UserInfoMoreService {
+
+    @Autowired
+    private UserInfoMoreMapper userInfoMoreMapper ;
+    /**根据UserId查询更多资料*/
+    public UserInfoMore queryUserInfoMoreByUserId(Long userId) {
+      return  userInfoMoreMapper.queryUserInfoMoreByUserId(userId);
+    }
+    
+    public void upDateUserInfo(UserInfoMore userInfoMore) {
+        this.userInfoMoreMapper.updateByPrimaryKey(userInfoMore);
+    }
+    
+    
+}
