@@ -1,0 +1,15 @@
+E:\workplace\taotao-ucenter\src\main\java\com\taotao\ucenter\service\MyOrderService.java
+E:\workplace\taotao-ucenter\src\main\java\com\taotao\ucenter\service\UserService.java
+E:\workplace\taotao-ucenter\src\main\java\com\taotao\ucenter\threadlocal\UserThreadLocal.java
+E:\workplace\taotao-ucenter\src\main\java\com\taotao\ucenter\web\controller\PageIndexController.java
+E:\workplace\taotao-ucenter\src\main\java\com\taotao\ucenter\bean\User.java
+E:\workplace\taotao-ucenter\src\main\java\com\taotao\ucenter\web\controller\MyOrderController.java
+E:\workplace\taotao-ucenter\src\main\java\com\taotao\ucenter\pojo\PageResult.java
+E:\workplace\taotao-ucenter\src\main\java\com\taotao\ucenter\handlerInterceptor\UserLoginHandlerInterceptor.java
+E:\workplace\taotao-ucenter\src\main\java\com\taotao\ucenter\mapper\OrderMapper.java
+E:\workplace\taotao-ucenter\src\main\java\com\taotao\ucenter\pojo\OrderShipping.java
+E:\workplace\taotao-ucenter\src\main\java\com\taotao\ucenter\pojo\Order.java
+E:\workplace\taotao-ucenter\src\main\java\com\taotao\ucenter\service\BaseService.java
+E:\workplace\taotao-ucenter\src\main\java\com\taotao\ucenter\vo\OrderSelectVo.java
+E:\workplace\taotao-ucenter\src\main\java\com\taotao\ucenter\pojo\OrderItem.java
+E:\workplace\taotao-ucenter\src\main\java\com\taotao\ucenter\mq\handler\ItemHandler.java
